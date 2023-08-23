@@ -198,7 +198,7 @@ Hackathon: 4-19 августа 2023, https://ai-hackathon.gigaschool.ru/
 
 	- Балычева Ирина
 
-	- Григорьев Александр
+	- Григорьев Александр ([Сертификат участника](https://github.com/krasnoturinsk/telegram_bot_support_auchan/blob/main/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%20%D0%90.pdf) )
 
 ---
 
